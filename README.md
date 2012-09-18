@@ -1,6 +1,6 @@
 drunk_badger
 ============
 
-this is the origin master branch
+this is the local test branch
 commit1
 commit2
